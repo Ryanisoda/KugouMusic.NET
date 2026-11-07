@@ -26,16 +26,6 @@
                 </ResourceDictionary>
 
                 <ResourceDictionary x:Key="Dark">
-                    <SolidColorBrush x:Key="DiscoverSectionTitleBrush" Color="#F1F5FF" />
-                    <SolidColorBrush x:Key="DiscoverSectionCaptionBrush" Color="#9DA9C3" />
-                    <SolidColorBrush x:Key="DiscoverCardTextBrush" Color="White" />
-                    <SolidColorBrush x:Key="DiscoverCardMutedTextBrush" Color="#D7DEF0" />
-                    <SolidColorBrush x:Key="DiscoverTopCardBorderBrush" Color="#24FFFFFF" />
-                    <SolidColorBrush x:Key="DiscoverTopCardOverlayBrush" Color="#9A080F1A" />
-                    <SolidColorBrush x:Key="DiscoverScrollButtonBrush" Color="#273149" />
-                    <SolidColorBrush x:Key="DiscoverScrollButtonHoverBrush" Color="#34405C" />
-                    <SolidColorBrush x:Key="DiscoverRankCardBrush" Color="#20283B" />
-                    <SolidColorBrush x:Key="DiscoverRankCardBorderBrush" Color="#303A55" />
                 </ResourceDictionary>
             </ResourceDictionary.ThemeDictionaries>
         </ResourceDictionary>

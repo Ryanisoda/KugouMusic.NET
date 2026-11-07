@@ -29,17 +29,6 @@
                 </ResourceDictionary>
 
                 <ResourceDictionary x:Key="Dark">
-                    <x:String x:Key="DailyRecommendHeroBackground">avares://KugouAvaloniaPlayer/Assets/daily-recommend-hero-dark.webp</x:String>
-                    <Color x:Key="DailyHeroOverlayTop">#24101B35</Color>
-                    <Color x:Key="DailyHeroOverlayMid">#34101B35</Color>
-                    <Color x:Key="DailyHeroOverlayBottom">#68101B35</Color>
-                    <Color x:Key="DailyHeroFadeStart">#0012192A</Color>
-                    <Color x:Key="DailyHeroFadeMid">#A012192A</Color>
-                    <Color x:Key="DailyHeroFadeEnd">#FF12192A</Color>
-                    <SolidColorBrush x:Key="DailyTableHeadingBrush" Color="#9CA8C6" />
-                    <SolidColorBrush x:Key="DailyHeroActionBrush" Color="#2A000000" />
-                    <SolidColorBrush x:Key="DailyHeroActionHoverBrush" Color="#44000000" />
-                    <SolidColorBrush x:Key="DailyHeroActionBorderBrush" Color="#30FFFFFF" />
                 </ResourceDictionary>
             </ResourceDictionary.ThemeDictionaries>
         </ResourceDictionary>

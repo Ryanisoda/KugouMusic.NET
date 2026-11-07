@@ -30,21 +30,6 @@
                 </ResourceDictionary>
 
                 <ResourceDictionary x:Key="Dark">
-                    <Color x:Key="CollectionHeroOverlayTop">#24101B35</Color>
-                    <Color x:Key="CollectionHeroOverlayMid">#34101B35</Color>
-                    <Color x:Key="CollectionHeroOverlayBottom">#68101B35</Color>
-                    <Color x:Key="CollectionHeroFadeStart">#0012192A</Color>
-                    <Color x:Key="CollectionHeroFadeMid">#A012192A</Color>
-                    <Color x:Key="CollectionHeroFadeEnd">#FF12192A</Color>
-                    <SolidColorBrush x:Key="CollectionTableHeadingBrush" Color="#9CA8C6" />
-                    <SolidColorBrush x:Key="CollectionCoverBorderBrush" Color="#66FFFFFF" />
-                    <SolidColorBrush x:Key="CollectionCoverBackgroundBrush" Color="#242A3550" />
-                    <SolidColorBrush x:Key="CollectionHeroIconButtonBrush" Color="#30000000" />
-                    <SolidColorBrush x:Key="CollectionHeroIconButtonHoverBrush" Color="#4A000000" />
-                    <SolidColorBrush x:Key="CollectionHeroButtonBorderBrush" Color="#34FFFFFF" />
-                    <SolidColorBrush x:Key="CollectionHeroActionBrush" Color="#2A000000" />
-                    <SolidColorBrush x:Key="CollectionHeroActionHoverBrush" Color="#44000000" />
-                    <SolidColorBrush x:Key="CollectionHeroActionBorderBrush" Color="#30FFFFFF" />
                 </ResourceDictionary>
             </ResourceDictionary.ThemeDictionaries>
         </ResourceDictionary>
